@@ -1,7 +1,3 @@
-Bash
-pip install psutil
-Python Source Code (keylogger_detector.py)
-Python
 import ctypes
 from ctypes import wintypes
 import threading
